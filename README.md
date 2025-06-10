@@ -16,8 +16,8 @@ API sederhana berbasis Flask yang memungkinkan pengguna untuk mengunduh audio da
 ### 1. Clone repositori
 
 ```bash
-git clone https://github.com/username/youtube-audio-api.git
-cd youtube-audio-api
+git clone https://github.com/Adytm404/youtube-mp3-download-api
+cd youtube-mp3-download-api
 ```
 
 ### 2. Instal dependensi Python
